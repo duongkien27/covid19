@@ -1,0 +1,8 @@
+Application (client) ID:
+3984387b-355f-4da4-a1a7-44ba9e651725
+Object ID:
+f78c2c99-64b5-4025-b040-0c062095cb48
+Directory (tenant) ID:
+06f1b89f-07e8-464f-b408-ec1b45703f31
+Secret: CgG8Q~4bf2ck2FjKv0PU6xk4D~fKah~X127jLce7 
+Token Data Brick: dapid61efdabc93e408d3ed1fb2f229a2427
